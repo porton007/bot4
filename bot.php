@@ -1,1 +1,1 @@
-<?phpecho "I am a bot"; ?>
+<?php echo '<p>Hello World</p>'; ?> 
